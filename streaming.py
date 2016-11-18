@@ -1,3 +1,5 @@
+#example for network socket word count application using apache spark steaming.
+
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
 
